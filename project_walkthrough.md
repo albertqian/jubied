@@ -7,7 +7,7 @@ A simple, modern, client-ready handoff guide.
 ## What the client gets
 
 ```text
-flux2-klein-9b-kv-pipeline/
+flux2-klein-9b-kv-fiverr-pipeline/
 ├── flux2_klein_9b_kv_v2.json
 ├── master_prompt_template.md
 ├── project_walkthrough.md
@@ -62,7 +62,7 @@ Click **Queue** and review output in `ComfyUI/output/`.
 - ZIP package cleaned and named.
 
 Suggested filename:
-`flux2-klein-9b-kv-pipeline-v1.zip`
+`flux2-klein-9b-kv-fiverr-pipeline-v1.zip`
 
 ---
 
